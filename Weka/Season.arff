@@ -1,0 +1,114 @@
+@relation weka.datagenerators.classifiers.classification.BayesNet-S_1_-n_100_-N_10_-S_1_-A_20_-C_2
+
+@attribute class {Value1,Value2}
+@attribute Node2 {Value1,Value2}
+@attribute Node3 {Value1,Value2}
+@attribute Node4 {Value1,Value2}
+@attribute Node5 {Value1,Value2}
+@attribute Node6 {Value1,Value2}
+@attribute Node7 {Value1,Value2}
+@attribute Node8 {Value1,Value2}
+@attribute Node9 {Value1,Value2}
+@attribute Node10 {Value1,Value2}
+
+@data
+Value2,Value2,Value1,Value1,Value2,Value2,Value1,Value2,Value2,Value1
+Value2,Value1,Value1,Value1,Value1,Value1,Value1,Value1,Value1,Value1
+Value1,Value1,Value2,Value2,Value2,Value1,Value2,Value2,Value1,Value1
+Value1,Value1,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value2,Value2,Value2
+Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value2,Value1,Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value1
+Value1,Value2,Value1,Value1,Value1,Value2,Value2,Value2,Value1,Value2
+Value1,Value1,Value2,Value2,Value1,Value1,Value1,Value1,Value1,Value2
+Value1,Value1,Value2,Value2,Value2,Value1,Value2,Value2,Value2,Value1
+Value2,Value2,Value2,Value2,Value2,Value2,Value1,Value1,Value2,Value2
+Value1,Value2,Value1,Value2,Value2,Value2,Value1,Value2,Value2,Value1
+Value2,Value2,Value1,Value1,Value2,Value1,Value2,Value2,Value2,Value1
+Value2,Value2,Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value2,Value1,Value1,Value1,Value2,Value1,Value1,Value1,Value1,Value2
+Value2,Value2,Value1,Value1,Value2,Value2,Value1,Value2,Value2,Value1
+Value1,Value1,Value1,Value2,Value2,Value1,Value1,Value2,Value1,Value2
+Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value2,Value2,Value1
+Value2,Value1,Value2,Value1,Value1,Value1,Value2,Value1,Value2,Value1
+Value1,Value1,Value2,Value2,Value1,Value2,Value2,Value1,Value1,Value1
+Value1,Value2,Value1,Value1,Value1,Value2,Value1,Value2,Value1,Value2
+Value2,Value1,Value2,Value1,Value2,Value2,Value2,Value2,Value1,Value1
+Value1,Value2,Value1,Value1,Value2,Value2,Value2,Value2,Value2,Value1
+Value2,Value1,Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1
+Value2,Value2,Value2,Value1,Value2,Value1,Value1,Value2,Value2,Value2
+Value1,Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value1,Value2
+Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value1,Value2,Value1
+Value1,Value1,Value2,Value2,Value2,Value1,Value2,Value1,Value1,Value1
+Value2,Value1,Value2,Value2,Value2,Value1,Value1,Value1,Value1,Value2
+Value1,Value2,Value1,Value2,Value2,Value1,Value1,Value2,Value2,Value2
+Value2,Value1,Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value1
+Value2,Value1,Value2,Value2,Value2,Value1,Value1,Value2,Value2,Value2
+Value1,Value1,Value2,Value2,Value1,Value2,Value2,Value1,Value1,Value1
+Value2,Value1,Value2,Value1,Value2,Value2,Value1,Value1,Value1,Value2
+Value2,Value1,Value1,Value1,Value1,Value2,Value2,Value2,Value1,Value2
+Value2,Value1,Value2,Value1,Value2,Value2,Value2,Value2,Value2,Value1
+Value1,Value1,Value2,Value2,Value2,Value1,Value1,Value1,Value1,Value2
+Value2,Value1,Value2,Value1,Value2,Value2,Value2,Value2,Value1,Value1
+Value1,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value1,Value2
+Value1,Value1,Value2,Value2,Value1,Value2,Value2,Value1,Value1,Value2
+Value2,Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value2,Value2
+Value2,Value1,Value1,Value2,Value2,Value2,Value1,Value2,Value2,Value2
+Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value2,Value2
+Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value2,Value1,Value2,Value1,Value2,Value2,Value2,Value2,Value1,Value1
+Value2,Value1,Value2,Value2,Value1,Value2,Value2,Value2,Value1,Value1
+Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value2,Value2,Value1,Value1,Value2,Value1,Value2,Value2,Value1,Value2
+Value1,Value1,Value2,Value1,Value1,Value2,Value1,Value1,Value2,Value2
+Value1,Value1,Value2,Value1,Value2,Value2,Value1,Value1,Value1,Value2
+Value2,Value1,Value2,Value2,Value1,Value1,Value2,Value1,Value2,Value1
+Value2,Value1,Value2,Value1,Value1,Value1,Value2,Value1,Value1,Value2
+Value2,Value1,Value2,Value2,Value1,Value2,Value1,Value2,Value2,Value1
+Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value1
+Value1,Value1,Value2,Value1,Value1,Value2,Value1,Value1,Value1,Value1
+Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value1,Value1,Value2
+Value1,Value2,Value1,Value1,Value2,Value2,Value1,Value2,Value2,Value2
+Value1,Value1,Value2,Value2,Value2,Value1,Value2,Value2,Value2,Value1
+Value1,Value1,Value2,Value1,Value1,Value2,Value1,Value1,Value2,Value1
+Value2,Value2,Value1,Value1,Value1,Value1,Value2,Value1,Value1,Value2
+Value1,Value1,Value2,Value2,Value1,Value2,Value1,Value1,Value1,Value1
+Value1,Value2,Value2,Value1,Value1,Value2,Value1,Value1,Value2,Value1
+Value2,Value1,Value2,Value1,Value2,Value2,Value2,Value1,Value1,Value1
+Value2,Value1,Value2,Value2,Value2,Value2,Value2,Value1,Value2,Value1
+Value1,Value1,Value2,Value1,Value2,Value2,Value1,Value2,Value2,Value2
+Value1,Value1,Value2,Value1,Value1,Value2,Value2,Value1,Value2,Value2
+Value2,Value2,Value1,Value1,Value2,Value1,Value2,Value2,Value2,Value1
+Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value1,Value1,Value1
+Value1,Value1,Value1,Value1,Value1,Value2,Value2,Value2,Value2,Value1
+Value1,Value1,Value2,Value2,Value2,Value1,Value2,Value1,Value1,Value1
+Value1,Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value2,Value2
+Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value1,Value1,Value1
+Value2,Value2,Value1,Value2,Value2,Value1,Value1,Value1,Value1,Value2
+Value2,Value1,Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value1
+Value1,Value1,Value2,Value1,Value2,Value2,Value1,Value2,Value1,Value1
+Value1,Value2,Value1,Value1,Value1,Value2,Value2,Value2,Value2,Value1
+Value1,Value1,Value2,Value2,Value2,Value1,Value1,Value1,Value2,Value2
+Value2,Value2,Value1,Value2,Value2,Value2,Value2,Value2,Value2,Value1
+Value2,Value2,Value1,Value2,Value2,Value2,Value1,Value2,Value2,Value2
+Value2,Value1,Value2,Value1,Value2,Value1,Value1,Value2,Value2,Value1
+Value2,Value1,Value2,Value2,Value2,Value2,Value1,Value1,Value2,Value2
+Value2,Value1,Value2,Value1,Value2,Value1,Value1,Value2,Value1,Value1
+Value2,Value2,Value1,Value1,Value2,Value2,Value2,Value2,Value1,Value1
+Value2,Value2,Value1,Value1,Value2,Value2,Value2,Value2,Value1,Value1
+Value1,Value2,Value1,Value1,Value2,Value2,Value2,Value2,Value1,Value1
+Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value1,Value1,Value2,Value2,Value2,Value1,Value1,Value1,Value2,Value2
+Value2,Value2,Value1,Value2,Value1,Value2,Value1,Value1,Value1,Value1
+Value1,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value2
+Value2,Value1,Value2,Value2,Value1,Value1,Value1,Value1,Value1,Value1
+Value1,Value2,Value1,Value2,Value2,Value1,Value1,Value1,Value1,Value2
+Value2,Value2,Value1,Value1,Value2,Value2,Value1,Value2,Value1,Value1
+Value1,Value1,Value2,Value2,Value1,Value2,Value1,Value1,Value2,Value1
+Value2,Value1,Value2,Value2,Value1,Value1,Value1,Value2,Value1,Value1
+Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2,Value1,Value2
+Value2,Value2,Value1,Value2,Value1,Value1,Value1,Value1,Value2,Value1
+Value1,Value2,Value1,Value1,Value2,Value2,Value2,Value2,Value2,Value2
+Value2,Value1,Value1,Value1,Value2,Value1,Value1,Value1,Value2,Value2
